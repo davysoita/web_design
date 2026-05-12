@@ -1,1 +1,3 @@
 -HTML file extenssion.htm or .html
+- git clone https://github.com/davysoita/web_design.git to clone git repository 
+-
