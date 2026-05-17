@@ -1,3 +1,5 @@
--HTML file extenssion.htm or .html
-- git clone https://github.com/davysoita/web_design.git to clone git repository 
--
+-Create a folder then open it in vs code
+-All HTML files are saved with .htm or .html file extenssion 
+-Create a file with .thml file extenssion
+-To get a repository of class session run the folloeing command git clone https://github.com/davysoita/web_design.git to clone git repository 
+-All paragraphs are enclosed within the opening and clossinf paragraphs tags, ie, <p> </p>
